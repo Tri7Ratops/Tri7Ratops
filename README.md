@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="assets/logo_tri7ratops.png" /></div>
+<center><img src="assets/logo_tri7ratops.png" /></center>
 <h1 align='center'>
     Hey !
 </h1>
